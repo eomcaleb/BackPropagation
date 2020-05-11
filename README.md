@@ -4,5 +4,6 @@
     This is done by using array manipulation without using keras, numpy, or others.
     To understand what happens bit by bit, it is strongly recommended to follow this piece of code.
 
-Work Example (Manual Operation):
+Working Example (Manual Operation):
+
 ![alt text](https://github.com/eomcaleb/BackPropagation/blob/master/img/Example.JPG?raw=true)
